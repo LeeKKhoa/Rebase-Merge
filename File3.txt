@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is file 3
 
 this file is modified in modify branch v2
+=======
+This is file 3
+>>>>>>> b65498c (modify File3.txt)
